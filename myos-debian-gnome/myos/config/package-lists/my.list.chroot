@@ -1,0 +1,5 @@
+task-gnome-desktop
+gnome-shell-extension-dashtodock
+gnome-shell-extension-appindicator
+# Раскомментируй, если пакет есть в репозитории (проверь: apt search just-perfection)
+# gnome-shell-extension-just-perfection
